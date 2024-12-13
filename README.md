@@ -25,7 +25,7 @@ Ensure you have the following installed:
 
    ```bash
    git clone https://github.com/verneylmavt/st-sn-parsing.git
-   cd ml-model
+   cd st-sn-parsing
    ```
 
 2. Install the required dependencies:
